@@ -11,7 +11,7 @@ const Navbar = () => (
     <Link to='/' style={{display: 'flex', alignItems: 'center', gap: '5px'}}>
       <img src={logo} alt="logo" height={45}/>
     <Typography variant={{xs: 'h1',sm: 'subtitle1', md: 'h6'}} color='#fff' fontFamily='sans-serif' fontSize='20px'>
-      NeoTube
+      MeoTube
     </Typography>
     </Link>
     <SearchBar/>
